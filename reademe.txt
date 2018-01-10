@@ -3,3 +3,4 @@ Git is a version control system.
 HuangFX
 cuengh@163.com
 change
+git has a mutable index called stage.
